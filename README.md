@@ -1,6 +1,4 @@
-# Hi there 👋
-
-I'm Matteo Tancredi
+# Hi there 👋! I'm Matteo Tancredi
 
 ## 💫 About Me
 
